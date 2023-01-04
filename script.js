@@ -1,3 +1,0 @@
-function hej() {
-  return "hej";
-}
