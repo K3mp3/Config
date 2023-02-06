@@ -59,3 +59,17 @@
 
 12. Axios
     npm i axios
+
+13. Cypress
+    npm i --save-dev cypress
+    npx cypress open
+    
+    I tsconfig.json
+    {
+      "compilerOptions": {
+        "target": "ESNEXT",
+        "lib": ["ESNEXT", "dom"],
+        "types": ["cypress", "node"]
+      },
+      "include": ["**/*.ts"]
+    }
