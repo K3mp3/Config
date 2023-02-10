@@ -1,4 +1,4 @@
-1. Vite 
+# Vite 
     $ pnpm create vite
 
 2. Sass
