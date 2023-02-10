@@ -1,5 +1,5 @@
 # Vite 
-    $ pnpm create vite
+    npm/pnpm create vite
 
 2. Sass
     pnpm add sass -D
