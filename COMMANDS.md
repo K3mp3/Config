@@ -8,6 +8,7 @@
 
 3. ESLint
     npm i --save-dev eslint
+    npx eslint --init
 
 4. Prettier
     npm install --save-dev --save-exact prettier
