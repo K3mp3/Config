@@ -1,11 +1,13 @@
 # Vite 
     npm/pnpm create vite
 
-2. Sass
+# Sass
+    npm install sass
+    pnpm add sass
     pnpm add sass -D
 
 3. ESLint
-    pnpm add @eslint/config
+    npm i --save-dev eslint
 
 4. Prettier
     npm install --save-dev --save-exact prettier
