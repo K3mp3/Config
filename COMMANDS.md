@@ -87,7 +87,7 @@
       git rm
       git commit -m "Description of changes here".
       git log
-      git --online/oneline
+      git --oneline
       git remote add origin <UrlToRepo> 
       git puch -u origin branchname
       git push
