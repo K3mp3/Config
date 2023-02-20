@@ -6,7 +6,7 @@
     pnpm add sass
     pnpm add sass -D
 
-3. ESLint
+# ESLint
     npm i --save-dev eslint
     npx eslint --init
     eslint-config-prettier
@@ -77,3 +77,18 @@
       },
       "include": ["**/*.ts"]
     }
+  
+  14. Git
+      git init
+      git add
+      git add .
+      git add *
+      git rm
+      git commit -m "Description of changes here".
+      git log
+      git --online
+      git remote add origin <UrlToRepo> 
+      git puch -u origin branchname
+      git push
+      git pull
+    
