@@ -1,5 +1,6 @@
 # Vite 
     npm/pnpm create vite
+    npm/pnpm create vite .
 
 # Sass
     npm install sass
