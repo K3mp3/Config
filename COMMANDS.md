@@ -8,11 +8,11 @@
     pnpm add sass -D
 
 # ESLint
-    npm i --save-dev eslint
+    npm/pnpm install --save-dev eslint
     npx eslint --init
     eslint-config-prettier
 
-4. Prettier
+# Prettier
     npm install --save-dev --save-exact prettier
     npx prettier --write .
 
