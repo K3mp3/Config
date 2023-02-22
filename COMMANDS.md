@@ -16,7 +16,7 @@
     npm install --save-dev --save-exact prettier
     npx prettier --write .
 
-5. THREE.JS
+# THREE.JS
     npm install three
 
 6. Interface
