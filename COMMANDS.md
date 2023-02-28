@@ -95,3 +95,4 @@
  
  15. Nodemon
      npm/pnpm install nodemon
+     npm/pnpm installl -g nodemon
