@@ -13,14 +13,14 @@
     eslint-config-prettier
 
 # Prettier
-    npm install --save-dev --save-exact prettier
+    npm/pnpm install --save-dev --save-exact prettier
     npx prettier --write .
 
 # THREE.JS
-    npm install three
-
-6. Interface
-    npm install dat.gui
+    npm/pnpm install three
+    
+# Interface
+    npm/pnpm install dat.gui
 
 7. Github
     git merge branchname
@@ -92,4 +92,6 @@
       git puch -u origin branchname
       git push
       git pull
-    
+ 
+ 15. Nodemon
+     npm/pnpm install nodemon
