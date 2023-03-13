@@ -25,7 +25,7 @@
 # Github
     git merge branchname
 
-8. GSAP
+# GSAP
     npm install gsap / pnpm add gsap
 
 9. Parcel
