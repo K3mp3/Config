@@ -3,9 +3,8 @@
     npm/pnpm create vite .
 
 # Sass
-    npm install sass
-    pnpm add sass
-    pnpm add sass -D
+    npm install sass /-D
+    pnpm add sass /-D
 
 # ESLint
     npm/pnpm install --save-dev eslint
