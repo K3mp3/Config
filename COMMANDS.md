@@ -27,12 +27,12 @@
 # GSAP
     npm install gsap / pnpm add gsap
 
-9. Parcel
+# Parcel
     npm install --save-dev parcel
     npx parcel root (src/index.html) --no-cache
     uninstall parcel
 
-10. General
+# General
     cd'.\name\'
 
 11. Jest
@@ -98,3 +98,6 @@
  
  16. Express
      npx express-generator --no-view
+ 
+17. MongoDB
+    npm/pnpm install mondodb
