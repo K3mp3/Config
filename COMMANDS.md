@@ -35,7 +35,7 @@
 # General
     cd'.\name\'
 
-11. Jest
+# Jest
     npm i --save-dev jest ts-jest @types/jest
     npx jest
     npx jest –watchAll
@@ -61,7 +61,7 @@
       * @jest-environment jsdom
     */
 
-12. Axios
+# Axios
     npm i axios
 
 13. Cypress
@@ -101,3 +101,6 @@
  
 17. MongoDB
     npm/pnpm install mondodb
+
+18. ENV
+    npm install dotenv
