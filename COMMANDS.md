@@ -25,10 +25,10 @@
     git merge branchname
 
 # GSAP
-    npm install gsap / pnpm add gsap
+    npm/pnpm install gsap
 
 # Parcel
-    npm install --save-dev parcel
+    npm/pnpm install --save-dev parcel
     npx parcel root (src/index.html) --no-cache
     uninstall parcel
 
