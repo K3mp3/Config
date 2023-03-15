@@ -64,7 +64,7 @@
 # Axios
     npm i axios
 
-13. Cypress
+# Cypress
     npm i --save-dev cypress
     npx cypress open
     
@@ -104,3 +104,6 @@
 
 18. ENV
     npm install dotenv
+
+19. Crypto
+    npm install crypto-js
