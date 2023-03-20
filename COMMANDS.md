@@ -78,7 +78,7 @@
       "include": ["**/*.ts"]
     }
   
-  14. Git
+# Git
       git init
       git add
       git add .
@@ -92,7 +92,7 @@
       git push
       git pull
  
- 15. Nodemon
+# Nodemon
      npm/pnpm install nodemon
      npm/pnpm installl -g nodemon
  
@@ -103,7 +103,7 @@
     npm/pnpm install mondodb
 
 18. ENV
-    npm install dotenv
+    npm install dotenv --save
 
 19. Crypto
     npm install crypto-js
