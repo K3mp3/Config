@@ -96,10 +96,10 @@
      npm/pnpm install nodemon
      npm/pnpm installl -g nodemon
  
- 16. Express
+# Express
      npx express-generator --no-view
  
-17. MongoDB
+# MongoDB
     npm/pnpm install mondodb
 
 18. ENV
@@ -107,3 +107,6 @@
 
 19. Crypto
     npm install crypto-js
+
+20. MySql2
+    npm install --save mysql2
