@@ -105,8 +105,11 @@
 # ENV
     npm install dotenv --save
 
-19. Crypto
+# Crypto
     npm install crypto-js
 
-20. MySql2
+# MySql2
     npm install --save mysql2
+
+# Vue
+    npx create-vue .
