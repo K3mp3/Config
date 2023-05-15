@@ -113,3 +113,6 @@
 
 # Vue
     npx create-vue .
+
+# Atlas
+    clud.mongodb.com
