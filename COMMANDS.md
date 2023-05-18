@@ -1,7 +1,7 @@
 # Vite 
     npm/pnpm create vite
     npm/pnpm create vite .
-    npm create vite@lates
+    npm create vite@latest .
 
 # Sass
     npm install sass /-D
