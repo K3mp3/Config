@@ -117,3 +117,6 @@
 
 # Atlas
     clud.mongodb.com
+
+# Socket.io
+    npm install socket.io
