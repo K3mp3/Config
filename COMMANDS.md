@@ -1,3 +1,7 @@
+# Pnpm 
+    PowerShell: iwr https://get.pnpm.io/install.ps1 -useb | iex
+    Npm: npm install -g pnpm
+
 # Vite 
     npm/pnpm create vite
     npm/pnpm create vite .
@@ -96,6 +100,7 @@
 # Nodemon
      npm/pnpm install nodemon
      npm/pnpm installl -g nodemon
+     npx nodemon start
  
 # Express
      npx express-generator --no-view
