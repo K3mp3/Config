@@ -106,7 +106,7 @@
      npx express-generator --no-view
  
 # MongoDB
-    npm/pnpm install mondodb
+    npm/pnpm install mongodb
 
 # ENV
     npm install dotenv --save
